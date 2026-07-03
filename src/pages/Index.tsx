@@ -38,7 +38,7 @@ const products: Product[] = [
     subtitle: 'Перезагрузка за два месяца',
     description: 'Три уровня стройности: физика, психосоматика, энергетика',
     image:
-      'https://cdn.poehali.dev/projects/e0f6b191-2506-4eb5-8f95-fd1e65f8f44c/bucket/964f7124-be32-4889-9c2a-23d6f62c89ea.jpg',
+      'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/c0ab07cf-a0e7-4602-8ff8-6bea9d83cb68.png',
   },
   {
     title: 'Практика-медитация',
