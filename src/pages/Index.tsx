@@ -10,6 +10,7 @@ interface Product {
   subtitle?: string;
   description: string;
   image: string;
+  imagePosition?: string;
 }
 
 const products: Product[] = [
@@ -39,6 +40,7 @@ const products: Product[] = [
     description: 'Три уровня стройности: физика, психосоматика, энергетика',
     image:
       'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/fd39b771-474f-40ff-b97a-206288a6d772.png',
+    imagePosition: 'object-top',
   },
   {
     title: 'Практика-медитация',
@@ -166,7 +168,7 @@ const Index = () => {
                   <img
                     src={product.image}
                     alt={product.title}
-                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                    className={`w-full h-full object-cover ${product.imagePosition ?? 'object-center'} transition-transform duration-500 group-hover:scale-105`}
                   />
                 </div>
 
