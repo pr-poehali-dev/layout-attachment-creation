@@ -74,6 +74,7 @@ const products: Product[] = [
     description: 'Общество, где мы каждый день творим свою лучшую жизнь',
     image:
       'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/5fe5b96a-1bba-4a32-9f14-1ae67fbe0d7f.jpg',
+    imagePosition: 'object-[center_30%]',
   },
 ];
 
