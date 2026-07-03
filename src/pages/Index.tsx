@@ -148,7 +148,7 @@ const Index = () => {
             <span className="text-sm tracking-widest uppercase text-secondary font-medium">
               Каталог
             </span>
-            <h2 className="font-display text-4xl md:text-5xl text-foreground mt-3">
+            <h2 className="font-display text-5xl md:text-6xl font-bold text-foreground mt-3">
               Продукты для тела, души и энергии
             </h2>
             <div className="w-16 h-1 rounded-full bg-accent mx-auto mt-6" />
