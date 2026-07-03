@@ -63,7 +63,7 @@ const products: Product[] = [
   },
   {
     title: 'Обучение космоэнергетике',
-    description: 'Школа современной космоэнергетики и личного творения',
+    description: 'Школа современной космоэнергетики и личного творения "Геката"',
     image:
       'https://cdn.poehali.dev/projects/e0f6b191-2506-4eb5-8f95-fd1e65f8f44c/bucket/137bf99f-5e03-4326-b721-e178401ebedb.jpg',
   },
