@@ -71,7 +71,7 @@ const products: Product[] = [
     title: 'Клуб АУРА',
     description: 'Общество, где мы каждый день творим свою лучшую жизнь',
     image:
-      'https://cdn.poehali.dev/projects/e0f6b191-2506-4eb5-8f95-fd1e65f8f44c/bucket/137bf99f-5e03-4326-b721-e178401ebedb.jpg',
+      'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/5fe5b96a-1bba-4a32-9f14-1ae67fbe0d7f.jpg',
   },
 ];
 
