@@ -1,7 +1,7 @@
 import Icon from '@/components/ui/icon';
 
 const HERO_IMAGE =
-  'https://cdn.poehali.dev/projects/e0f6b191-2506-4eb5-8f95-fd1e65f8f44c/bucket/ffd830d6-94ac-4803-80bb-f3b3e2c64975.jpg';
+  'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/8ad8a2e5-05ab-4559-ae1d-164bea8d4516.png';
 
 interface Product {
   title: string;
@@ -118,13 +118,13 @@ const Index = () => {
             </div>
           </div>
 
-          <div className="order-1 md:order-2 relative animate-float-up md:h-full">
-            <div className="relative mx-auto max-w-md md:max-w-full md:h-full">
-              <div className="absolute inset-0 rounded-[2rem] bg-secondary/10 rotate-3 scale-95" />
+          <div className="order-1 md:order-2 relative animate-float-up md:h-full flex items-end justify-center">
+            <div className="relative mx-auto max-w-sm md:max-w-full h-[420px] md:h-full md:max-h-[640px] flex items-end justify-center">
+              <div className="absolute bottom-0 w-4/5 h-2/3 rounded-full bg-secondary/10 blur-2xl" />
               <img
                 src={HERO_IMAGE}
                 alt="Автор библиотеки"
-                className="relative rounded-[2rem] w-full h-[420px] md:h-full md:max-h-[640px] object-cover object-top shadow-2xl"
+                className="relative h-full w-auto object-contain object-bottom drop-shadow-2xl"
               />
             </div>
           </div>
