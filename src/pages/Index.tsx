@@ -158,7 +158,7 @@ const Index = () => {
             {products.map((product, i) => (
               <article
                 key={product.title}
-                className="group relative flex flex-col sm:flex-row items-stretch gap-6 rounded-[1.75rem] bg-card border border-primary/30 p-4 sm:p-6 transition-all duration-300 hover:border-primary/60 hover:shadow-xl hover:shadow-primary/5 hover:-translate-y-1 animate-float-up"
+                className="group relative flex flex-col sm:flex-row items-stretch gap-6 rounded-[1.75rem] bg-card border-2 border-primary/40 p-4 sm:p-6 transition-all duration-300 hover:border-primary/70 hover:shadow-xl hover:shadow-primary/5 hover:-translate-y-1 animate-float-up"
                 style={{ animationDelay: `${i * 0.06}s` }}
               >
                 <div className="shrink-0 w-full sm:w-40 h-40 rounded-2xl overflow-hidden bg-muted">
