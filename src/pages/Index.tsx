@@ -118,8 +118,8 @@ const Index = () => {
             </div>
           </div>
 
-          <div className="order-1 md:order-2 relative animate-float-up md:h-full flex items-end justify-center">
-            <div className="relative mx-auto max-w-sm md:max-w-full h-[420px] md:h-full md:max-h-[640px] flex items-end justify-center">
+          <div className="order-1 md:order-2 relative animate-float-up md:h-full flex items-end justify-center md:overflow-visible">
+            <div className="relative mx-auto max-w-lg md:max-w-none h-[480px] md:h-full md:max-h-[760px] w-full md:w-[125%] flex items-end justify-center">
               <div className="absolute bottom-0 w-4/5 h-2/3 rounded-full bg-secondary/10 blur-2xl" />
               <img
                 src={HERO_IMAGE}
