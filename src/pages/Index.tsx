@@ -56,7 +56,8 @@ const products: Product[] = [
   },
   {
     title: 'Все практики — медитации',
-    description: 'Полная библиотека медитативных практик',
+    description:
+      'Полная библиотека психологических практик-медитаций для гармонии во всех сферах жизни',
     image:
       'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/c283a378-e5c2-4e91-9db4-376580f91d88.jpg',
   },
