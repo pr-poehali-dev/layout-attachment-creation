@@ -58,7 +58,7 @@ const products: Product[] = [
     title: 'Все практики — медитации',
     description: 'Полная библиотека медитативных практик',
     image:
-      'https://cdn.poehali.dev/projects/e0f6b191-2506-4eb5-8f95-fd1e65f8f44c/bucket/137bf99f-5e03-4326-b721-e178401ebedb.jpg',
+      'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/c283a378-e5c2-4e91-9db4-376580f91d88.jpg',
   },
   {
     title: 'Обучение космоэнергетике',
