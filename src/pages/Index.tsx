@@ -24,7 +24,7 @@ const products: Product[] = [
     description:
       'Панические атаки, тревоги, страхи. Вы не сходите с ума. Вы застряли в конфликте, который тело пытается решить',
     image:
-      'https://cdn.poehali.dev/projects/e0f6b191-2506-4eb5-8f95-fd1e65f8f44c/bucket/6413d861-9e1c-470b-93e7-e97415094c8d.jpg',
+      'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/9c988ea2-c580-4e8d-9ec5-4579e78afbbd.png',
   },
   {
     title: 'Женские диагнозы',
