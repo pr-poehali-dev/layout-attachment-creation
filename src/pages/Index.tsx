@@ -160,7 +160,7 @@ const Index = () => {
                 </div>
 
                 <div className="flex-1 flex flex-col justify-center pr-2">
-                  <h3 className="font-display text-2xl md:text-3xl font-semibold text-secondary leading-tight">
+                  <h3 className="font-heading font-extrabold text-xl md:text-2xl text-secondary leading-tight">
                     {product.title}
                     {product.subtitle && (
                       <span className="block text-foreground">{product.subtitle}</span>
