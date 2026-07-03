@@ -52,7 +52,7 @@ const products: Product[] = [
     subtitle: 'Маршрут, по которому я вышла из ада',
     description: 'Как паразиты влияют на нашу жизнь и здоровье',
     image:
-      'https://cdn.poehali.dev/projects/e0f6b191-2506-4eb5-8f95-fd1e65f8f44c/bucket/964f7124-be32-4889-9c2a-23d6f62c89ea.jpg',
+      'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/2d682198-fbd9-4ea3-a64f-9ef30249d452.jpg',
   },
   {
     title: 'Все практики — медитации',
