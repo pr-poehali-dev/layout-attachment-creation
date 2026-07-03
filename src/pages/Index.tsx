@@ -45,7 +45,7 @@ const products: Product[] = [
     subtitle: 'для проработки любого симптома',
     description: 'Поиск и работа с первопричиной симптома',
     image:
-      'https://cdn.poehali.dev/projects/e0f6b191-2506-4eb5-8f95-fd1e65f8f44c/bucket/964f7124-be32-4889-9c2a-23d6f62c89ea.jpg',
+      'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/5f026bf0-bef1-4706-8207-9d951f663424.jpg',
   },
   {
     title: 'ПАРАЗИТам.НЕТ',
