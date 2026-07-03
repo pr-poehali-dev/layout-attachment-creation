@@ -17,7 +17,7 @@ const products: Product[] = [
     title: 'Матрица энергетической реальности',
     description: 'Как чакры, тонкие тела и код судьбы влияют на вашу жизнь',
     image:
-      'https://cdn.poehali.dev/projects/e0f6b191-2506-4eb5-8f95-fd1e65f8f44c/bucket/6413d861-9e1c-470b-93e7-e97415094c8d.jpg',
+      'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/c3d58727-7cd8-416e-82d7-b4ecaa1ff1f6.png',
   },
   {
     title: 'Жизнь без паники',
