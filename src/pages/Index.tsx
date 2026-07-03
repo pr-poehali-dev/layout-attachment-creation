@@ -2,6 +2,8 @@ import Icon from '@/components/ui/icon';
 
 const HERO_IMAGE =
   'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/8ad8a2e5-05ab-4559-ae1d-164bea8d4516.png';
+const HERO_BG =
+  'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/files/c8908ad4-215d-4f6c-8da7-1bd7c1932c31.jpg';
 
 interface Product {
   title: string;
@@ -76,8 +78,16 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background text-foreground font-body overflow-x-hidden">
       {/* HERO */}
-      <section className="relative">
+      <section className="relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-[#efe7db] via-[#f3ede2] to-[#e7ddce]" />
+        <div
+          className="absolute inset-0 opacity-40 mix-blend-multiply pointer-events-none"
+          style={{
+            backgroundImage: `url(${HERO_BG})`,
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+          }}
+        />
         <div className="absolute -top-24 -right-24 w-96 h-96 rounded-full bg-primary/5 blur-3xl" />
 
         <div className="relative container mx-auto px-6 md:px-8 grid md:grid-cols-2 gap-8 items-stretch min-h-[85vh] py-12">
