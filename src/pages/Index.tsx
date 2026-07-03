@@ -80,7 +80,7 @@ const Index = () => {
         <div className="absolute inset-0 bg-gradient-to-br from-[#efe7db] via-[#f3ede2] to-[#e7ddce]" />
         <div className="absolute -top-24 -right-24 w-96 h-96 rounded-full bg-primary/5 blur-3xl" />
 
-        <div className="relative container mx-auto px-6 md:px-8 grid md:grid-cols-2 gap-8 items-center min-h-[85vh] py-12">
+        <div className="relative container mx-auto px-6 md:px-8 grid md:grid-cols-2 gap-8 items-stretch min-h-[85vh] py-12">
           <div className="order-2 md:order-1 animate-float-up" style={{ animationDelay: '0.1s' }}>
             <div className="flex items-center gap-2 mb-6 text-secondary">
               <Icon name="Sparkles" size={18} />
@@ -118,13 +118,13 @@ const Index = () => {
             </div>
           </div>
 
-          <div className="order-1 md:order-2 relative animate-float-up">
-            <div className="relative mx-auto max-w-md md:max-w-full">
+          <div className="order-1 md:order-2 relative animate-float-up md:h-full">
+            <div className="relative mx-auto max-w-md md:max-w-full md:h-full">
               <div className="absolute inset-0 rounded-[2rem] bg-secondary/10 rotate-3 scale-95" />
               <img
                 src={HERO_IMAGE}
                 alt="Автор библиотеки"
-                className="relative rounded-[2rem] w-full object-cover shadow-2xl"
+                className="relative rounded-[2rem] w-full h-[420px] md:h-full md:max-h-[640px] object-cover object-top shadow-2xl"
               />
             </div>
           </div>
