@@ -65,7 +65,7 @@ const products: Product[] = [
     title: 'Обучение космоэнергетике',
     description: 'Школа современной космоэнергетики и личного творения "Геката"',
     image:
-      'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/ad94931a-c539-4d27-8275-282c39e06ee5.jpg',
+      'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/41148f03-f666-4694-b0a8-c003ed4596f3.jpg',
   },
   {
     title: 'Клуб АУРА',
