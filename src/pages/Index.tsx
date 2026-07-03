@@ -31,7 +31,7 @@ const products: Product[] = [
     subtitle: 'Исцеление через осознание',
     description: 'Врачи ставят диагнозы, а тело продолжает болеть. Таблетки не лечат душу!',
     image:
-      'https://cdn.poehali.dev/projects/e0f6b191-2506-4eb5-8f95-fd1e65f8f44c/bucket/6413d861-9e1c-470b-93e7-e97415094c8d.jpg',
+      'https://cdn.poehali.dev/projects/a9037679-f96a-485d-8bbb-1ba87346ebce/bucket/6439562c-c316-4361-97f2-bf57dc049389.png',
   },
   {
     title: 'Формула стройности',
